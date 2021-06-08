@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sargam Sharma
-- 👀 I’m interested in Microservices and the Cloud Native World.
+- 👀 I’m interested in Microservices, the Cloud Native World and networking with diverse people.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking for an open source project to start my open source journey and give back to the community.
 - 📫 Reach me on LinkedIn- https://www.linkedin.com/in/sargams14
